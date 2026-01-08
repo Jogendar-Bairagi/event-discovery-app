@@ -9,7 +9,7 @@ function AppContent() {
   return (
     <div className="App">
       <header className="app-header">
-        <h1> Local Events</h1>
+        <h1> Local Community Events</h1>
         <p>Discover & Join Community Events Near You</p>
       </header>
       
