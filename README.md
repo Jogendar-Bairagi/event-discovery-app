@@ -40,18 +40,18 @@ npm start
 ```
 http://localhost:3000
 ```
+
 📂 Project Structure
+```
 src/
 ├── context/
-│   └── EventContext.js     # State management (Context API)
+│   └── EventContext.js    
 ├── components/
-│   ├── EventCard.js        # Event cards
-│   └── Filters.js          # Filter controls
+│   ├── EventCard.js        
+│   └── Filters.js          
 ├── pages/
-│   ├── HomePage.js         # Events list + pagination
-│   └── EventDetail.js      # Single event view
-├── App.js                  # Main app + routing
-└── App.css                 # All styles (plain CSS)
+│   ├── HomePage.js         
+│   └── EventDetail.js      
+├── App.js                  
+└── App.css                 
 
-public/
-└── index.html              # Entry point
