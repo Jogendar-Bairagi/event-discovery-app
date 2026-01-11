@@ -1,5 +1,4 @@
 # 🌟 Local Events Discovery Web-App
-
 **Frontend Developer Intern Assignment - StarLabs**
 
 A **React-based platform** for discovering and joining local community events featuring **pagination**, **real-time filtering**, and **RSVP functionality**.
